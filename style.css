@@ -1,0 +1,17 @@
+.navbar-default {
+    background-color: white;
+    background-image:none;
+    background-repeat:no-repeat;
+}
+
+.navbar-brand {
+    background-color:  #068b8b;
+    color: white;
+    font-weight: bold;
+    font-size:xx-large;
+    font-family: garamond;
+    text-align: center;
+    position: relative;
+    /* left: 5% */
+
+}
